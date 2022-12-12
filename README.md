@@ -2,4 +2,4 @@
 UAS-Kalkulator
 
 # Versi
-Android Studio - Dolphin.
+Android Studio - Chipmunk.
